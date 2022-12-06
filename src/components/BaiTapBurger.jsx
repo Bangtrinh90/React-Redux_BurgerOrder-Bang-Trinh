@@ -21,7 +21,7 @@ class BaiTapBurger extends Component {
     this.renderBurgerMid();
     return (
       <div className="container">
-        <h2 className="text-secondary text-center my-1">Bài Tập Burger</h2>
+        <h2 className="text-danger text-center my-1">Bài Tập Burger</h2>
         <div className="row">
           <div className="col-7 my-3">
             <h3 className="text-dark text-center">Burger Của Bạn</h3>
